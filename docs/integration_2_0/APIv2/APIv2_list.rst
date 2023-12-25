@@ -1,7 +1,7 @@
 API v2
 ###########
 
-.. image:: Work_with_API/pics/Basic_002.png
+.. image:: /integration_2_0/APIv2/Work_with_API/pics/Basic_002.png
    :align: center
    :height: 700px
    :alt: Стандартна схема документообігу

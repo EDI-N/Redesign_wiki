@@ -29,6 +29,7 @@ EDIN | Електронний документообіг для бізнесу
    integration_2_0/AS2
    integration_2_0/SOAP
    integration_2_0/FTP
+   ALL/All_Specs
    integration_2_0/1C_integration_2_0/1C_integration_2_0_list
    integration_2_0/Podpisanie/E_Sign
    integration_2_0/Podpisanie/CryptoLibraries
@@ -39,9 +40,6 @@ EDIN | Електронний документообіг для бізнесу
 
    general_2_0/general_2_0_list
    retail_2.0/retail_2_0_list
-   integration_2_0/integration_2_0_list
-   EDIN_Specs/EDIN_Specs_list
-   Integration_ETTNv3/Integration_ETTNv3_list
    ETTN_3_0/ETTN_3_0_list
 
 .. toctree::
@@ -55,15 +53,12 @@ EDIN | Електронний документообіг для бізнесу
    :caption: 🫱‍🫲 Комерційна пропозиція
 
    Commercial_offers/Instructions/C_O_instructions_list
-   Commercial_offers/API/C_O_API_list
 
 .. toctree::
    :maxdepth: 2
    :caption: 📋 Е-Специфікація
 
    E_SPEC/EDIN_2_0/Instructions_2_0/E_SPEC_instructions_2_0_list
-   E_SPEC/EDIN_2_0/API_2_0/E_SPEC_API_2_0_list
-   E_SPEC/EDIN_2_0/XML/XML_structure
 
 .. deprecated
 
@@ -79,8 +74,6 @@ EDIN | Електронний документообіг для бізнесу
    :caption: 🏭 Маркет
 
    Distribution/EDIN_2_0/Instructions_2_0/Distribution_instructions_2_0_list
-   Distribution/EDIN_2_0/API_2_0/Distribution_API_2_0_list
-   Distribution/EDIN_2_0/XML/XML_structure
 
 .. toctree::
    :maxdepth: 2
@@ -93,7 +86,6 @@ EDIN | Електронний документообіг для бізнесу
    :caption: 📢 Тендер
 
    Tender_2_0/Work_with_Tender
-   API_Tender/API_Tender_list
 
 .. toctree::
    :maxdepth: 2
@@ -101,7 +93,6 @@ EDIN | Електронний документообіг для бізнесу
 
    Vilnyi/Vilnyi_list
    Vilnyi/Widget_Vilnyi
-   API_Vilnyi/API_Vilnyi_list
 
 .. toctree::
    :maxdepth: 2
@@ -115,9 +106,7 @@ EDIN | Електронний документообіг для бізнесу
 
    ETTN_2_0/ETTN_2_0_list
    integration_ETTN/integration_ETTN_list
-   API_ETTN/API_ETTN_list
    API_ETTN/Work_with_API/Work_with_API_list
-   Docs_ETTNv2/Docs_ETTNv2_list
 
 .. toctree::
    :maxdepth: 2

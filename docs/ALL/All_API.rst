@@ -1,11 +1,6 @@
 API
 ##################################################################
 
-.. contents:: Зміст:
-   :depth: 3
-
----------
-
 .. dropdown:: EDI Network
    :color: info
    :animate: fade-in-slide-down

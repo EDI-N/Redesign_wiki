@@ -9,6 +9,11 @@ EDIN | Електронний документообіг для бізнесу
 Зміст:
 
 .. toctree::
+   :maxdepth: 2
+
+   general_2_0/faq
+
+.. toctree::
    :titlesonly:
    :caption: 🚀 Побудовані процеси
    
@@ -17,9 +22,21 @@ EDIN | Електронний документообіг для бізнесу
 
 .. toctree::
    :maxdepth: 2
+   :caption: Інтеграція
+
+   integration_2_0/integration_2_0_list
+   ALL/All_API
+   integration_2_0/AS2
+   integration_2_0/SOAP
+   integration_2_0/FTP
+   integration_2_0/1C_integration_2_0/1C_integration_2_0_list
+   integration_2_0/Podpisanie/E_Sign
+   integration_2_0/Podpisanie/CryptoLibraries
+
+.. toctree::
+   :maxdepth: 2
    :caption: 🛒 EDI Network
 
-   general_2_0/faq
    general_2_0/general_2_0_list
    retail_2.0/retail_2_0_list
    integration_2_0/integration_2_0_list

@@ -1,10 +1,19 @@
 Мобільні застосунки
 ##################################################################
 
-.. include:: /Driver/Instructions_list.rst
+.. dropdown:: Інструкції по роботі з додатком «EDIN Driver»
+   :color: info
+   :animate: fade-in-slide-down
 
-:doc:`Distribution/EDIN_2_0/Instructions_2_0/EDIN_Market`
+   .. toctree::
+      :maxdepth: 1
+      
+      /Driver/Instructions/Android
+      /Driver/Instructions/iOS
+      /Driver/Instructions/Huawei
 
-.. include:: /retail_2.0/retail_2_0_list.rst
+.. dropdown:: Інструкції по роботі з додатком «EDIN Market»
+   :color: info
+   :animate: fade-in-slide-down
 
-.. include:: /ETTN_3_0/ETTN_3_0_list.rst
+   :doc:`Distribution/EDIN_2_0/Instructions_2_0/EDIN_Market`

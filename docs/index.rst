@@ -23,7 +23,7 @@ EDIN | Електронний документообіг для бізнесу
         :link: https://redesign-wiki.readthedocs.io/uk/latest/general_2_0/faq.html
 
     .. grid-item-card::  Стандарти обміну EDIN
-        :img-top: _static/standarts.png
+        :img-top: _static/edin_standart.png
         :class-card: intro-card
         :shadow: lg
 

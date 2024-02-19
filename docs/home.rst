@@ -10,35 +10,27 @@ EDIN | Електронний документообіг для бізнесу
     :padding: 2 2 0 0
     :class-container: sd-text-center
 
-    .. grid-item-card:: Getting started
-        :img-top: _static/index_getting_started.svg
+    .. grid-item-card:: F.A.Q.
+        :img-top: _static/faq.png
         :class-card: intro-card
         :shadow: md
 
-        New to *pandas*? Check out the getting started guides. They contain an
-        introduction to *pandas'* main concepts and links to additional tutorials.
-
         +++
 
-        .. button-ref:: getting_started
-            :ref-type: ref
-            :click-parent:
+        .. button-link:: https://redesign-wiki.readthedocs.io/uk/latest/general_2_0/faq.html
             :color: secondary
             :expand:
 
             To the getting started guides
 
-    .. grid-item-card::  User guide
-        :img-top: _static/index_user_guide.svg
+    .. grid-item-card::  Процеси клієнтів
+        :img-top: _static/ClientProcesses.png
         :class-card: intro-card
-        :shadow: md
-
-        The user guide provides in-depth information on the
-        key concepts of pandas with useful background information and explanation.
+        :shadow: lg
 
         +++
 
-        .. button-ref:: user_guide
+        .. button-ref:: Clients_list
             :ref-type: ref
             :click-parent:
             :color: secondary
@@ -46,18 +38,14 @@ EDIN | Електронний документообіг для бізнесу
 
             To the user guide
 
-    .. grid-item-card::  API reference
-        :img-top: _static/index_api.svg
+    .. grid-item-card::  Стандарти обміну EDIN
+        :img-top: _static/EDINProcesses.png
         :class-card: intro-card
         :shadow: md
 
-        The reference guide contains a detailed description of
-        the pandas API. The reference describes how the methods work and which parameters can
-        be used. It assumes that you have an understanding of the key concepts.
-
         +++
 
-        .. button-ref:: api
+        .. button-ref:: EDINProcesses_list
             :ref-type: ref
             :click-parent:
             :color: secondary
@@ -65,18 +53,29 @@ EDIN | Електронний документообіг для бізнесу
 
             To the reference guide
 
-    .. grid-item-card::  Developer guide
-        :img-top: _static/index_contribute.svg
+    .. grid-item-card::  Інструкції (WEB)
+        :img-top: _static/instructions.jpg
         :class-card: intro-card
         :shadow: md
 
-        Saw a typo in the documentation? Want to improve
-        existing functionalities? The contributing guidelines will guide
-        you through the process of improving pandas.
+        +++
+
+        .. button-ref:: All_Instructions
+            :ref-type: ref
+            :click-parent:
+            :color: secondary
+            :expand:
+
+            To the development guide
+
+    .. grid-item-card::  Інструкції (APP)
+        :img-top: _static/instructions.jpg
+        :class-card: intro-card
+        :shadow: md
 
         +++
 
-        .. button-ref:: development
+        .. button-ref:: All_Mobile
             :ref-type: ref
             :click-parent:
             :color: secondary

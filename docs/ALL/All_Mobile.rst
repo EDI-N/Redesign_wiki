@@ -16,4 +16,4 @@
    :color: info
    :animate: fade-in-slide-down
 
-   :doc:`Distribution/EDIN_2_0/Instructions_2_0/EDIN_Market`
+   :doc:`/Distribution/EDIN_2_0/Instructions_2_0/EDIN_Market`

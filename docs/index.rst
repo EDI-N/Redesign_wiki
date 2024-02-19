@@ -14,15 +14,7 @@ EDIN | Електронний документообіг для бізнесу
     .. grid-item-card:: F.A.Q.
         :img-top: _static/faq.png
         :class-card: intro-card
-        :shadow: md
-
-        +++
-
-        .. button-link:: https://redesign-wiki.readthedocs.io/uk/latest/general_2_0/faq.html
-            :color: secondary
-            :expand:
-
-            To the getting started guides
+        :shadow: lg
 
     .. grid-item-card::  Процеси клієнтів
         :img-top: _static/ClientProcesses.png
@@ -33,47 +25,19 @@ EDIN | Електронний документообіг для бізнесу
     .. grid-item-card::  Стандарти обміну EDIN
         :img-top: _static/standarts.png
         :class-card: intro-card
-        :shadow: md
-
-        +++
-
-        .. button-ref:: EDINProcesses_list
-            :ref-type: ref
-            :click-parent:
-            :color: secondary
-            :expand:
-
-            To the reference guide
+        :shadow: lg
 
     .. grid-item-card::  Інструкції (WEB)
         :img-top: _static/instructions.png
         :class-card: intro-card
-        :shadow: md
-
-        +++
-
-        .. button-ref:: All_Instructions
-            :ref-type: ref
-            :click-parent:
-            :color: secondary
-            :expand:
-
-            To the development guide
+        :shadow: lg
 
     .. grid-item-card::  Інструкції (APP)
         :img-top: _static/instructions.png
         :class-card: intro-card
-        :shadow: md
+        :shadow: lg
 
-        +++
 
-        .. button-ref:: All_Mobile
-            :ref-type: ref
-            :click-parent:
-            :color: secondary
-            :expand:
-
-            To the development guide
 
 
 

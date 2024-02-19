@@ -31,7 +31,7 @@ EDIN | Електронний документообіг для бізнесу
         :link: https://redesign-wiki.readthedocs.io/uk/latest/general_2_0/faq.html
 
     .. grid-item-card::  Стандарти обміну EDIN
-        :img-top: _static/EDINProcesses.png
+        :img-top: _static/standarts.png
         :class-card: intro-card
         :shadow: md
 
@@ -46,7 +46,7 @@ EDIN | Електронний документообіг для бізнесу
             To the reference guide
 
     .. grid-item-card::  Інструкції (WEB)
-        :img-top: _static/instructions.jpg
+        :img-top: _static/instructions.png
         :class-card: intro-card
         :shadow: md
 
@@ -61,7 +61,7 @@ EDIN | Електронний документообіг для бізнесу
             To the development guide
 
     .. grid-item-card::  Інструкції (APP)
-        :img-top: _static/instructions.jpg
+        :img-top: _static/instructions.png
         :class-card: intro-card
         :shadow: md
 

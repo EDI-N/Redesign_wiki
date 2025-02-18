@@ -63,6 +63,13 @@ EDIN | Електронний документообіг для бізнесу
    ALL/All_Mobile
 
 .. toctree::
+   :maxdepth: 3
+   :caption: Інструкції (new)
+
+   API_ETTNv3_1/API_ETTNv3_1_list
+   ALL/All_Mobile
+
+.. toctree::
    :maxdepth: 2
    :caption: Інтеграція
 

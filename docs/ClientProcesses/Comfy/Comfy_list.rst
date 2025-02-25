@@ -5,7 +5,7 @@ Comfy
    :caption: Робота з мережею "COMFY" на платформі EDI Network 2.0
    :maxdepth: 1
    
-   Comfy_Instructions/Comfy_EDI_instructions
+   Comfy_Instructions/Comfy_EDI_instruction
 
 .. toctree::
    :caption: Специфікації документів (XML) для роботи з "Comfy" [1]

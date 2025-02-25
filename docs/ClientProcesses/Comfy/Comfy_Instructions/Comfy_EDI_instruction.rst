@@ -51,7 +51,7 @@
 
 **Загальна схема документообігу:**
 
-.. image:: pics_Comfy_EDI/Comfy_EDI_001.png
+.. image:: pics_Comfy_EDI_instruction/Comfy_EDI_001.png
    :height: 700px
    :align: center
 

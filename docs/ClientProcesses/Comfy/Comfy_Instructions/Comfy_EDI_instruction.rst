@@ -98,6 +98,8 @@
 .. include:: /retail_2.0/formirovanie_otpravka_dokumenta_Uvedomlenie_ob_otgruzke_DESADV_na_EDI_Network_2.0.rst
    :start-after: .. початок блоку для Desadv_from_Ordrsp
    :end-before: .. кінець блоку для Desadv_from_Ordrsp
+
+.. _comdoc006_from_desadv:
    
 4 Формування Комерційного документа "Видаткова накладна" (COMDOC_006)
 ==========================================================================================================================

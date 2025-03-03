@@ -115,8 +115,8 @@
 ==========================================================================================================================
 
 .. include:: /retail_2.0/formirovanie_otpravka_dokumenta_Vydatkova_Nakladna_na_EDI_Network_2.0.rst
-   :start-after: .. початок блоку для comdoc006_from_desadv
-   :end-before: .. кінець блоку для comdoc006_from_desadv
+   :start-after: .. початок блоку для Comdoc006_from_desadv
+   :end-before: .. кінець блоку для Comdoc006_from_desadv
    
 
 ------------------------------------------------

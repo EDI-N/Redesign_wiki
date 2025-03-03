@@ -81,18 +81,9 @@
 .. image:: /_constant/pics_landing/landing_edi.png
    :align: center
 
-.. _order-create:
-
-2 Створення та відправка "Замовлення" (ORDER) на стороні мережі "COMFY"
-==========================================================================================================================
-
-.. include:: /retail_2.0/formirovanie_otpravka_ORDER_na_EDI_Network_2.0.rst
-   :start-after: .. початок блоку для Order_from_zero
-   :end-before: .. кінець блоку для Order_from_zero
-
 .. _ordrsp_from_order:
 
-3 Створення "Підтвердження замовлення" (ORDRSP) на підставі вхідного "Замовлення" (ORDER)
+2 Створення "Підтвердження замовлення" (ORDRSP) на підставі вхідного "Замовлення" (ORDER)
 ==========================================================================================================================
 
 .. include:: /retail_2.0/ORDRSP_na_EDI_Network.rst
@@ -101,26 +92,14 @@
 
 .. _desadv_from_ordrsp:
 
-4 Створення "Повідомлення про відвантаження" (DESADV) на підставі надісланого "Підтвердження замовлення" (ORDRSP)
+3 Створення "Повідомлення про відвантаження" (DESADV) на підставі надісланого "Підтвердження замовлення" (ORDRSP)
 ==========================================================================================================================
 
 .. include:: /retail_2.0/formirovanie_otpravka_dokumenta_Uvedomlenie_ob_otgruzke_DESADV_na_EDI_Network_2.0.rst
    :start-after: .. початок блоку для Desadv_from_Ordrsp
    :end-before: .. кінець блоку для Desadv_from_Ordrsp
    
-
-.. _comdoc006_from_desadv:
-
-66 Створення "Повідомлення про відвантаження" (DESADV) на підставі надісланого "Підтвердження замовлення" (ORDRSP)
-==========================================================================================================================
-
-.. include:: /retail_2.0/formirovanie_otpravka_dokumenta_Vydatkova_Nakladna_na_EDI_Network_2.0.rst
-   :start-after: .. початок блоку для Desadv_from_Ordrsp
-   :end-before: .. кінець блоку для Desadv_from_Ordrsp
-
-.. _comdoc007_from_desadv:
-
-5 Формування Комерційного документа "Видаткова накладна" (COMDOC_006)
+4 Формування Комерційного документа "Видаткова накладна" (COMDOC_006)
 ==========================================================================================================================
 
 .. include:: /retail_2.0/formirovanie_otpravka_dokumenta_Vydatkova_Nakladna_na_EDI_Network_2.0.rst

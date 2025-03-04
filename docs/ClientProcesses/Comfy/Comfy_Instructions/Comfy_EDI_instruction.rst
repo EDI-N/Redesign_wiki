@@ -24,8 +24,6 @@
 
 .. |bad_doc| image:: /general_2_0/pics_rabota_s_platformoj_EDIN_2.0/rabota_s_platformoj_066.png
 
-pics_Vydatkova_comdoc_na_EDI_Network_2.0/Vydatkova_comdoc_na_EDI_Network_2.0_013.png
-
 .. role:: red
 
 .. role:: orange

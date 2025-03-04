@@ -24,6 +24,8 @@
 
 .. |bad_doc| image:: /general_2_0/pics_rabota_s_platformoj_EDIN_2.0/rabota_s_platformoj_066.png
 
+pics_Vydatkova_comdoc_na_EDI_Network_2.0/Vydatkova_comdoc_na_EDI_Network_2.0_013.png
+
 .. role:: red
 
 .. role:: orange
@@ -107,6 +109,8 @@
 .. include:: /retail_2.0/formirovanie_otpravka_dokumenta_Vydatkova_Nakladna_na_EDI_Network_2.0.rst
    :start-after: .. початок блоку для Comdoc_006_from_Desadv
    :end-before: .. кінець блоку для Comdoc_006_from_Desadv
+
+Детальніше про підписання документів дивіться `розділ <https://wiki.edin.ua/uk/latest/retail_2.0/formirovanie_otpravka_dokumenta_Vydatkova_Nakladna_na_EDI_Network_2.0.html#edin-2-0>`__
    
 ------------------------------------------------
 

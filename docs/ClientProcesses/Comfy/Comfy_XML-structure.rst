@@ -19,17 +19,17 @@ XML Специфікації для роботи з Мережею "Comfy"
 
 ---------
 
-Прайс-лист (PRICAT)
+Статус Підтвердження замовлення
 ====================
 
-.. csv-table:: Прайс-лист (PRICAT)
-  :file: Comfy_XML/files/PRICAT.csv
+.. csv-table:: Статус Піідтвердження замовлення
+  :file: Comfy_XML/files/Status.csv
   :widths:  40, 7, 12, 41
   :header-rows: 1
 
 :download:`XML-Приклад "Прайс-листа" (PRICAT)<Comfy_XML/examples/PRICAT_example.xml>`
 
-:download:`JSON-Приклад "Прайс-листа" (PRICAT)<Comfy_XML/examples/PRICAT.json>`
+:download:`JSON-Приклад "Прайс-листа" (PRICAT)<Comfy_XML/examples/Status.json>`
 
 ---------
 

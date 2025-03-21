@@ -12,10 +12,12 @@
 
 .. |коло| image:: /_constant/icons/search_clear.png
 
+.. |друк| image:: /_constant/icons/print_blue.png
+
 ---------
 
 .. contents:: Зміст:
-   :depth: 2
+   :depth: 3
 
 ---------
 
@@ -77,7 +79,7 @@
 .. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_05.png
    :align: center
 
-Після завантаження файлу доданий сертифікат візуалізується. Для додавання до вкладень декількох сертифікатів натисніть кнопк «**Додати файл**» та оберіть файл для завантаження зі свого комп'ютера. Для перегляду завантажених файлів скористайтесь кнопками навігації по сторінках завантажень.
+Після завантаження файлу доданий сертифікат візуалізується. Для додавання до вкладень декількох сертифікатів натисніть кнопку «**Додати файл**» та оберіть файл для завантаження зі свого комп'ютера. Для перегляду завантажених файлів скористайтесь кнопками навігації по сторінках завантажень.
 
 .. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_06.png
    :align: center
@@ -95,19 +97,18 @@
 .. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_08.png
    :align: center
 
-Після підписання на сертифікатах у вкладенні з'явиться водяний знак (Watermark) та до вкладень картки сертифікату буде додано Лист підписання. Перейти до нього можна за допомогою кнопок навігації по сторінках вкладень.
-
+Після підписання на сертифікатах у вкладенні з'явиться водяний знак (Watermark) та до вкладень картки сертифікату буде додано Лист підписання.
 .. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_09.png
    :align: center
 
-
+Перейти до Листа підписання можна за допомогою кнопок навігації по сторінках вкладень:
 
 .. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_10.png
    :align: center
 
 2.4. Прив'язка товару до Сертифікату
 ------------------------------------------------------------------------
-Далі необхідно прив’язати сертифікати до товару, на який вони виписані. Для цього натисніть кнопку «Далі» у вкладеннях або перейдіть до вкладки «**Пов'язані товари**» в боковому меню. Якщо товарних позицій декілька, потрібно натиснути на кнопку «Додати» й заповнити обов'язкові параметри для іншого товару, виділені червоною зірочкою (*). Після заповнення, натисніть на кнопку «Далі».
+Далі необхідно прив’язати сертифікат до товару, на який він виписаний. Для цього натисніть кнопку «Далі» у вкладеннях або перейдіть до вкладки «**Пов'язані товари**» в боковому меню. Заповніть необхідні параметри товару. Якщо товарних позицій декілька, потрібно натиснути на кнопку «Додати» й заповнити обов'язкові параметри для іншого товару, виділені **червоною зірочкою** (*). Після заповнення натисніть на кнопку «Далі».
 
 .. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_11.png
    :align: center
@@ -257,12 +258,12 @@
 .. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_08.png
    :align: center
 
-Після підписання на сертифікатах у вкладенні з'явиться водяний знак (Watermark) та до вкладень картки сертифікату буде додано Лист підписання. Перейти до нього можна за допомогою кнопок навігації по сторінках вкладень.
+Після підписання на сертифікатах у вкладенні з'явиться водяний знак (Watermark) та до вкладень картки сертифікату буде додано Лист підписання. 
 
 .. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_09.png
    :align: center
 
-
+Перейти до Листа підписання можна за допомогою кнопок навігації по сторінках вкладень:
 
 .. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_10.png
    :align: center
@@ -289,19 +290,14 @@
 6. Друк сертифіката
 ====================================================================
 
-Щоб роздрукувати сертифікат, клікніть на обраному сертифікаті в переліку сертифікатів. Відкриється картка обраного сертифікату. Перейдіть на вкладку "**Вкладення**" бокового меню та натисніть іконку друку:
+Щоб роздрукувати сертифікат, клікніть на обраному сертифікаті в переліку сертифікатів. Відкриється картка обраного сертифікату. Перейдіть на вкладку "**Вкладення**" бокового меню та натисніть іконку друку |друк|
 
-.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_39.png
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_26.png
    :align: center
 
-Або у відкритому сертифікаті, в полі **Файл**:
+ Обраний сертифікат завантажиться на Ваш комп'ютер та відкриється меню, де можна налаштувати параметри друку та роздрукувати сертифікат:
 
-.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_40.png
-   :align: center
-
-Відкриється вікно із завантаженою скан-копію сертифіката, де можна додати реквізити КЕП. Натиснувши на кнопку "Друк", відкриється меню, з якого можна роздрукувати сертифікат з реквізитами КЕП.
-
-.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_41.png
+.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_27.png
    :align: center
 
 

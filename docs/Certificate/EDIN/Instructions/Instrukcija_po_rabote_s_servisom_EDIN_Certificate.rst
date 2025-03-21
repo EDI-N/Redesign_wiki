@@ -295,10 +295,6 @@
 .. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_26.png
    :align: center
 
- Обраний сертифікат завантажиться на Ваш комп'ютер та відкриється меню, де можна налаштувати параметри друку та роздрукувати сертифікат:
-
-.. image:: pics_Instrukcija_po_rabote_s_servisom_EDIN_Certificate/Instrukcija_po_rabote_s_servisom_EDIN_Certificate_27.png
-   :align: center
 
 
 .. include:: kontakti.rst

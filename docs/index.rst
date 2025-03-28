@@ -77,12 +77,6 @@ EDIN | Електронний документообіг для бізнесу
         :shadow: lg
         :link: https://wiki.edin.ua/uk/latest/Certificate/EDIN/Certificate_list.html
 
-    .. grid-item-card::  White Doc
-        :img-top: _static/card_pic/wd.png
-        :class-card: intro-card
-        :shadow: lg
-        :link: https://wiki.edin.ua/uk/latest/WhiteDoc/WD_Instructions/WD_Instructions_list.html
-
     .. grid-item-card::  Driver
         :img-top: _static/card_pic/driver.png
         :class-card: intro-card
@@ -112,18 +106,6 @@ EDIN | Електронний документообіг для бізнесу
         :class-card: intro-card
         :shadow: lg
         :link: https://wiki.edin.ua/uk/latest/ERP_Connector_PRO/Instructions/Videoinstruction.html
-
-    .. grid-item-card::  Юридична інформація
-        :img-top: _static/card_pic/legal_g.png
-        :class-card: intro-card
-        :shadow: lg
-        :link: https://wiki.edin.ua/uk/latest/Legal_info/Rules.html
-
-    .. grid-item-card::  Вебінари
-        :img-top: _static/card_pic/webinars_g.png
-        :class-card: intro-card
-        :shadow: lg
-        :link: https://wiki.edin.ua/uk/latest/Webinars/Videos.html
 
     .. grid-item-card::  Законодавство
         :img-top: _static/card_pic/zakon_g.png

@@ -4,4 +4,5 @@
 .. toctree::
    :maxdepth: 1
    
-   Instrukcija_po_rabote_s_servisom_EDIN_Certificate
+   Instrukcija_postachalnika_EDIN_Certificate
+   Instrukcija_merezhi_EDIN_Certificate.rst

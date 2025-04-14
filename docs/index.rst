@@ -15,31 +15,31 @@ EDIN | Електронний документообіг для бізнесу
         :img-top: _static/card_pic/novelty.png
         :class-card: intro-card
         :shadow: lg
-        :link: https://wiki.edin.ua/uk/latest/general_2_0/whats_new.html
+        :link: https://redesign-wiki.readthedocs.io/uk/latest/general_2_0/whats_new.html
 
     .. grid-item-card:: F.A.Q.
         :img-top: _static/card_pic/faq_g.png
         :class-card: intro-card
         :shadow: lg
-        :link: https://wiki.edin.ua/uk/latest/general_2_0/faq.html
+        :link: https://redesign-wiki.readthedocs.io/uk/latest/general_2_0/faq.html
 
     .. grid-item-card::  Процеси клієнтів
         :img-top: _static/card_pic/ClientProcesses_g.png
         :class-card: intro-card
         :shadow: lg
-        :link: https://wiki.edin.ua/uk/latest/ClientProcesses/Clients_list.html
+        :link: https://redesign-wiki.readthedocs.io/uk/latest/ClientProcesses/Clients_list.html
 
     .. grid-item-card::  Стандарти обміну EDIN
         :img-top: _static/card_pic/edin_standart_g.png
         :class-card: intro-card
         :shadow: lg
-        :link: https://wiki.edin.ua/uk/latest/EDINProcesses/EDINProcesses_list.html
+        :link: https://redesign-wiki.readthedocs.io/uk/latest/EDINProcesses/EDINProcesses_list.html
 
     .. grid-item-card::  Інтеграція
         :img-top: _static/card_pic/integration_g.png
         :class-card: intro-card
         :shadow: lg
-        :link: https://wiki.edin.ua/uk/latest/integration_2_0/integration_2_0_list.html
+        :link: https://redesign-wiki.readthedocs.io/uk/latest/integration_2_0/integration_2_0_list.html
 
     .. grid-item-card::  Вільний
         :img-top: _static/card_pic/vilnyi.png
@@ -123,24 +123,24 @@ EDIN | Електронний документообіг для бізнесу
         :img-top: _static/card_pic/legal_g.png
         :class-card: intro-card
         :shadow: lg
-        :link: https://wiki.edin.ua/uk/latest/Legal_info/Rules.html
+        :link: https://redesign-wiki.readthedocs.io/uk/latest/Legal_info/Rules.html
 
     .. grid-item-card::  Вебінари
         :img-top: _static/card_pic/webinars_g.png
         :class-card: intro-card
         :shadow: lg
-        :link: https://wiki.edin.ua/uk/latest/Webinars/Videos.html
+        :link: https://redesign-wiki.readthedocs.io/uk/latest/Webinars/Videos.html
 
     .. grid-item-card::  Законодавство
         :img-top: _static/card_pic/zakon_g.png
         :class-card: intro-card
         :shadow: lg
-        :link: https://wiki.edin.ua/uk/latest/Zakon/Zakonodavcha_baza.html
+        :link: https://redesign-wiki.readthedocs.io/uk/latest/Zakon/Zakonodavcha_baza.html
 
 
 
 .. toctree::
-   :maxdepth: 2
+   :titlesonly:
    :caption: WHAT'S NEW?
 
    general_2_0/whats_new

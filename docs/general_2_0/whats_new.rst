@@ -15,6 +15,7 @@ WHAT'S NEW
 
 ----------------------------------------------------
 
+
 ``**06.05.2025**``
 
 :green:`EDI Network`
@@ -178,6 +179,7 @@ WHAT'S NEW
 
 .. toggle-header::
     :header: ``**22.04.2025**``
+
 
     :green:`EDI Network`
 
